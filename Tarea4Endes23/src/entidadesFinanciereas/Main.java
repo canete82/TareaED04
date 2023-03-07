@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package entidadesFinanciereas;
 
@@ -9,10 +5,6 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("1 CAMBIO EN ECLIPSE");
-		System.out.println("2 CAMBIO EN ECLIPSE");
-		System.out.println("3 CAMBIO EN ECLIPSE");
-		System.out.println("4 CAMBIO EN ECLIPSE");
 
 		CCuenta objetoCuenta;
 		double saldoActual;
